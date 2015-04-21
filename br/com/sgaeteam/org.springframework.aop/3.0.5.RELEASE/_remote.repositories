@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 20 23:32:21 BRT 2015
+org.springframework.aop-3.0.5.RELEASE.jar>=
+org.springframework.aop-3.0.5.RELEASE.pom>=

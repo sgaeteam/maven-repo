@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.com.sgaeteam</groupId>
+  <artifactId>mysql-connector-java</artifactId>
+  <versioning>
+    <release>5.1.13-bin</release>
+    <versions>
+      <version>5.1.13-bin</version>
+    </versions>
+    <lastUpdated>20150421022644</lastUpdated>
+  </versioning>
+</metadata>
