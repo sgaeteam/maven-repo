@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 21 00:00:27 BRT 2015
+slf4j-api-1.6.1.pom>=
+slf4j-api-1.6.1.jar>=
